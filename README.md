@@ -10,22 +10,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Global Statistics](#global-statistics)
-- [Research Questions](#research-questions)
-- [Imaging Modalities](#imaging-modalities)
-- [Dataset Resources](#dataset-resources)
-- [AI Model Families](#ai-model-families)
-- [Performance Benchmarks](#performance-benchmarks)
-- [Research Gaps](#research-gaps)
-- [Clinical Workflow](#clinical-workflow)
-- [Citation](#citation)
-- [Authors](#authors)
-
----
-
 ## 🔬 Overview
 
 Glaucoma is the **leading cause of irreversible blindness** worldwide, progressing silently until substantial optic nerve damage occurs. This comprehensive review evaluates artificial intelligence approaches for:
